@@ -15,6 +15,18 @@
 
 ---
 
+## 📈 Featured Case Study
+
+### ⚡ [Industrial Telemetry ML System](https://github.com/kieferwaight/industrial-telemetry-ml-system)
+> **Architecting an end-to-end applied ML pipeline to convert raw, ambient industrial hardware signals into automated operational insights.**
+* **The Challenge:** Processing high-velocity telemetry streams from commercial hardware under harsh edge conditions.
+* **The Architecture:** Designed a resilient, local-first inference engine and data matrix to ingestion pipelines, achieving deterministic fill-level detection without relying on unstable cloud dependencies.
+* **The Outcome:** Successfully de-risked data collection constraints and built the foundational technical organization required to take the prototype to full-scale commercial acquisition.
+
+👉 **[Read the Full Systems Architecture Breakdown & Implementation →](https://github.com/kieferwaight/industrial-telemetry-ml-system)**
+
+---
+
 ### 🧠 Focus
 * **Machine Learning & AI Infrastructure:** Designing deterministic runtime environments for local-first intelligence.
 * **Agentic Orchestration:** Constructing resilient execution graphs and template-driven routing engines.
