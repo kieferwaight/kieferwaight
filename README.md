@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiefer-waight-founder-engineer-systems-architect-ai-systems-github.png" alt="Kiefer Waight - AI Systems Architecture Header" width="100%">
+</p>
+
 # Kiefer Waight
 **Founder Engineer | Systems Architect**
 
