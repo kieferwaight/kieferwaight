@@ -1,21 +1,34 @@
 # Kiefer Waight
 **Founder Engineer | Systems Architect**
 
-> Building technical operating systems that turn early-stage ideas into scalable systems.
+<p align="left">
+  <img src="https://img.shields.io/badge/Architecture-AI%20%7C%20Systems-238636?style=flat-square" alt="AI & Systems Architecture" />
+  <img src="https://img.shields.io/badge/Intelligence-Local%20LLM%20%7C%20Ollama-1f6feb?style=flat-square" alt="Local LLM Architecture" />
+  <img src="https://img.shields.io/badge/Execution-Agent%20Orchestration-d29922?style=flat-square" alt="Agent Orchestration" />
+</p>
 
-## 🛠 Focus Areas
-<img src="https://img.shields.io/badge/Ansible--%23238636?style=flat-square&logo=ansible" alt="Ansible" /> <img src="https://img.shields.io/badge/Docker--%232496ED?style=flat-square&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/Proxmox--%23E57024?style=flat-square&logo=proxmox" alt="Proxmox" />  
-*Infrastructure, Homelab Clustering (ZFS), and Local-First AI (Ollama, Agents).*
-
-## 🚀 Current Work
-* **LocalFabric:** Local-first AI + workflow runtime.
-* **Homelab Cluster:** 3-node Proxmox + ZFS system.
-* **YAML Runtime:** Template-driven execution engine.
-
-## 📈 System Pattern
-1.  Identify operational leverage.
-2.  Build systems that unlock scale.
-3.  Align execution through architecture.
+> I build technical operating systems that turn early-stage ideas into scalable systems.
 
 ---
-[Website](https://kieferwaight.com) | [LinkedIn](https://www.linkedin.com/in/kieferwaight)
+
+### 🧠 Focus
+* **Machine Learning & AI Infrastructure:** Designing deterministic runtime environments for local-first intelligence.
+* **Agentic Orchestration:** Constructing resilient execution graphs and template-driven routing engines.
+* **Bare-Metal Compute Topology:** Architecting highly available local clusters optimized for model evaluation and inference data pipelines.
+
+### 🚀 Current Initiatives
+* **LocalFabric** — A localized, high-throughput AI runtime and state-machine engine for workflow orchestration.
+* **YAML Runtime** — A template-driven execution framework engineered to de-risk and automate infrastructure scale.
+* **Homelab Cluster** — A dedicated 3-node localized compute and ZFS data matrix for private model testing.
+
+### 🏗 Operational Patterns
+* **Identify Operational Leverage:** Locate the critical points where AI and automated intelligence compress execution cycles.
+* **Build Systems that Unlock Scale:** Avoid bleeding-edge distractions; engineer stable, predictable software environments.
+* **Align Execution Through Architecture:** Treat organizational scale as a technical systems routing problem.
+
+---
+
+<p align="left">
+  <a href="https://kieferwaight.com"><b>Website</b></a> • 
+  <a href="https://www.linkedin.com/in/kieferwaight"><b>LinkedIn</b></a>
+</p>
