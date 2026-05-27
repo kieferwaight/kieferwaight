@@ -1,16 +1,24 @@
-## Hi there 👋
+# Kiefer Waight
+Founder Engineer | Systems Architect
 
-<!--
-**kieferwaight/kieferwaight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
+I build technical operating systems that turn early-stage ideas into scalable systems.
 
-Here are some ideas to get you started:
+## Focus
+- Infrastructure & automation (Ansible, Docker, Proxmox)
+- Homelab architecture (ZFS, clustering, networking)
+- Local-first AI systems (Ollama, agent orchestration)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Work
+- LocalFabric → local-first AI + workflow runtime
+- Homelab cluster → 3-node Proxmox + ZFS system
+- YAML runtime → template-driven execution engine
+
+## Pattern
+- identify operational leverage
+- build systems that unlock scale
+- align execution through architecture
+
+## Links
+- Website: https://kieferwaight.com
+- LinkedIn: https://www.linkedin.com/in/kieferwaight
