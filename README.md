@@ -1,24 +1,21 @@
 # Kiefer Waight
-Founder Engineer | Systems Architect
+**Founder Engineer | Systems Architect**
 
-## What I Do
-I build technical operating systems that turn early-stage ideas into scalable systems.
+> Building technical operating systems that turn early-stage ideas into scalable systems.
 
-## Focus
-- Infrastructure & automation (Ansible, Docker, Proxmox)
-- Homelab architecture (ZFS, clustering, networking)
-- Local-first AI systems (Ollama, agent orchestration)
+## 🛠 Focus Areas
+<img src="https://img.shields.io/badge/Ansible--%23238636?style=flat-square&logo=ansible" alt="Ansible" /> <img src="https://img.shields.io/badge/Docker--%232496ED?style=flat-square&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/Proxmox--%23E57024?style=flat-square&logo=proxmox" alt="Proxmox" />  
+*Infrastructure, Homelab Clustering (ZFS), and Local-First AI (Ollama, Agents).*
 
-## Current Work
-- LocalFabric → local-first AI + workflow runtime
-- Homelab cluster → 3-node Proxmox + ZFS system
-- YAML runtime → template-driven execution engine
+## 🚀 Current Work
+* **LocalFabric:** Local-first AI + workflow runtime.
+* **Homelab Cluster:** 3-node Proxmox + ZFS system.
+* **YAML Runtime:** Template-driven execution engine.
 
-## Pattern
-- identify operational leverage
-- build systems that unlock scale
-- align execution through architecture
+## 📈 System Pattern
+1.  Identify operational leverage.
+2.  Build systems that unlock scale.
+3.  Align execution through architecture.
 
-## Links
-- Website: https://kieferwaight.com
-- LinkedIn: https://www.linkedin.com/in/kieferwaight
+---
+[Website](https://kieferwaight.com) | [LinkedIn](https://www.linkedin.com/in/kieferwaight)
